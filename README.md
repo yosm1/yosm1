@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **yosm1/yosm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[<img src="https://readme-spotify-status-beige.vercel.app/api/run-spotify-status.py" alt="Your alt what" width="350" />](https://github.com/yosm1/yosm1)
+[<img src="https://readme-spotify-status-ph7e2pvxb-yosm1.vercel.app/api/run-spotify-status.py" alt="Your alt what" width="350" />](https://github.com/yosm1/yosm1)
